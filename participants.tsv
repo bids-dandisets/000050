@@ -1,19 +1,19 @@
-participant_id	species	sex
-sub-661968859	Mus musculus	F
-sub-673580710	Mus musculus	M
-sub-675861517	Mus musculus	M
-sub-699502603	Mus musculus	F
-sub-699590236	Mus musculus	F
-sub-710318403	Mus musculus	F
-sub-745634050	Mus musculus	F
-sub-746910369	Mus musculus	F
-sub-746926904	Mus musculus	M
-sub-753847689	Mus musculus	M
-sub-753852001	Mus musculus	M
-sub-754469470	Mus musculus	F
-sub-759496697	Mus musculus	F
-sub-759679908	Mus musculus	F
-sub-763958536	Mus musculus	F
-sub-765991985	Mus musculus	M
-sub-769367548	Mus musculus	M
-sub-772622312	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-661968859	sub-661968859	Mus musculus	F
+sub-673580710	sub-673580710	Mus musculus	M
+sub-675861517	sub-675861517	Mus musculus	M
+sub-699502603	sub-699502603	Mus musculus	F
+sub-699590236	sub-699590236	Mus musculus	F
+sub-710318403	sub-710318403	Mus musculus	F
+sub-745634050	sub-745634050	Mus musculus	F
+sub-746910369	sub-746910369	Mus musculus	F
+sub-746926904	sub-746926904	Mus musculus	M
+sub-753847689	sub-753847689	Mus musculus	M
+sub-753852001	sub-753852001	Mus musculus	M
+sub-754469470	sub-754469470	Mus musculus	F
+sub-759496697	sub-759496697	Mus musculus	F
+sub-759679908	sub-759679908	Mus musculus	F
+sub-763958536	sub-763958536	Mus musculus	F
+sub-765991985	sub-765991985	Mus musculus	M
+sub-769367548	sub-769367548	Mus musculus	M
+sub-772622312	sub-772622312	Mus musculus	M
