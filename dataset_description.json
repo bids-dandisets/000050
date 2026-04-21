@@ -1,17 +1,4 @@
 {
-    "Name": "Allen Institute - Run Tuning in the Mouse Visual Cortex",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0",
-    "Description": "Allen Institute for Brain Science, MindScope Project.",
-    "DatasetType": "raw",
-    "Authors": null,
-    "License": null,
-    "GeneratedBy": [
-        {
-            "Name": "nwb2bids",
-            "Version": "0.12.1.dev6+gf29fa0039",
-            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
-            "CodeURL": "https://github.com/con/nwb2bids"
-        }
-    ]
+    "HEDVersion": "8.3.0"
 }
